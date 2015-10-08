@@ -1,0 +1,37 @@
+Name: Franco Cheung 
+Student Number: 20386111
+User-id: f4cheung
+Assignment: Final Project
+
+The final executable was compiled on this machine: gl08
+
+How to invoke my program: 
+1. through the terminal go to the A5/src directory
+2. type in the terminal "setenv LD_LIBRARY_PATH ." (without quotations)
+2. then type in "./final"
+
+How to use my extra features: 
+	It is already turned on.
+	Any additional feature should be avaible in the the menu bar
+
+I have created the following data files, which are in the data directory: 
+	n/a
+	They are in the src directory
+
+My program assumes the following: 
+1. No enemy to enemy collisons
+2. part of the tank may be out of terrain bound
+3. Nothing happens if the robot gets caught by the tank
+4. cannot rotate the terrain along the x or z axis
+
+Objectives:
+1: Model creation of character and Monster
+2: Character animation is present, and responds to interaction
+3: Monster animation is present, and a simple AI is applied to it
+4: Shadow mapping has been used and is able to be toggled on and off
+5: Texture mapping has been used, with models and terrain environments
+6: Hills and terrains are created
+7: 3D Collisions detection are implemented and used logically
+8: Animate Particle System
+9: Procedural generation is used for trees
+10: Bouncing ball physics is implemented
